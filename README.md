@@ -1,11 +1,11 @@
 ![Header](https://github.com/ArliSteel/arlisteel/blob/main/assets/36S9YUODTNk%20копия.png)
 
 ## About Me
-Меня зовут Андрей. Я начинающий тестировщик живущий на крайнем севере.
+Привет! Меня зовут Андрей. Я начинающий тестировщик живущий на крайнем севере.
 ## My CV
-Pogress...
+Soon...
 ## Testing Documentation
-Pogress...
+Soon...
 ## Languages and Tools
 ![Jira](https://img.shields.io/badge/Jira-CFBEAB?style=for-the-badge&logo=Jira&logoColor=1D7AFC)
 ![Azuredevops](https://img.shields.io/badge/Azuredevops-CFBEAB?style=for-the-badge&logo=Azuredevops&logoColor=0074CF)
