@@ -1,7 +1,7 @@
 ![Header](https://github.com/ArliSteel/arlisteel/blob/main/assets/36S9YUODTNk%20копия.png)
 
 ## About Me
-Меня зовут Андрей.
+Меня зовут Андрей. Я начинающий тестировщик живущий на крайнем севере.
 ## My CV
 Pogress...
 ## Testing Documentation
