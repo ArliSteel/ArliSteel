@@ -1,4 +1,4 @@
-![Header](https://github.com/ArliSteel/arlisteel/blob/main/assets/36S9YUODTNk%20копия.png)]
+![Header](https://github.com/ArliSteel/arlisteel/blob/main/assets/36S9YUODTNk%20копия.png)
 
 ## About Me
 Меня зовут Андрей.
