@@ -2,16 +2,16 @@
 ## 🧑🏼‍💻 Обо мне
 <img align="right" src="https://i.pinimg.com/originals/60/6d/83/606d832d22e2db54a2946e1e83489a77.gif" height="210">
 
-👋🏻 Привет! Меня зовут Андрей. Я начинающий тестировщик живущий на крайнем севере.
+<br> 👋🏻 Привет! Меня зовут Андрей. Я начинающий тестировщик живущий на крайнем севере.
 <br> 🎉 [Окончил](https://stepik.org/cert/2394432 "Сертификат") курс Артёма Русова "Тестирование ПО с нуля".
 <br> 👨🏻‍🎓 Каждый день совершенствую свои знания.
 <br> ☕ Планирую изучить автоматизацию тестирования на Java.
 <br> 🔦 Всегда в поисках интересеных проектов и опыта!
 <br> 📑 Ознакомьтесь с моим [резюме](https://www.cqf.su/img/in-construct.png).
-<br>
-## Тестовые артефакты
+<br> 💥 Случайные факты: люблю автомобли и не имею вредных привычек.
+## 💼 Тестовые артефакты
 Soon...
-## Languages and Tools
+## 🔧 Инструменты  и языки
 ![Jira](https://img.shields.io/badge/Jira-CFBEAB?style=for-the-badge&logo=Jira&logoColor=1D7AFC)
 ![Azuredevops](https://img.shields.io/badge/Azuredevops-CFBEAB?style=for-the-badge&logo=Azuredevops&logoColor=0074CF)
 ![Postman](https://img.shields.io/badge/Postman-CFBEAB?style=for-the-badge&logo=postman&logoColor=F66935)
@@ -20,6 +20,7 @@ Soon...
 ![GitHub](https://img.shields.io/badge/GitHub-CFBEAB?style=for-the-badge&logo=GitHub&logoColor=000000)
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-CFBEAB?style=for-the-badge&logo=Androidstudio&logoColor=81B34D)
 ![Fiddler](https://img.shields.io/badge/Fiddler-CFBEAB?style=for-the-badge)
-## Follow Me
+![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-CFBEAB?style=for-the-badge)
+## 🤝 Социальные сети
 [![Telegram](https://img.shields.io/badge/Telegram-CFBEAB?style=for-the-badge&logo=Telegram&logoColor=№2193CD)](https://t.me/iamsupersex)
 [![VKontakte](https://img.shields.io/badge/VKontakte-CFBEAB?style=for-the-badge&logo=VK&logoColor=0078FF)](https://vk.com/iamsupersex)
