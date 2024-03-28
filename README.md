@@ -10,7 +10,7 @@
 <br> 📑 Ознакомьтесь с моим [резюме](https://www.cqf.su/img/in-construct.png).
 <br> 💥 Случайные факты: люблю автомобли и не имею вредных привычек.
 ## 💼 Тестовые артефакты
-Soon...
+📋 [Review of technical documentation](https://github.com/ArliSteel/technical_review)
 ## 🔧 Инструменты  и языки
 ![Jira](https://img.shields.io/badge/Jira-CFBEAB?style=for-the-badge&logo=Jira&logoColor=1D7AFC)
 ![Azuredevops](https://img.shields.io/badge/Azuredevops-CFBEAB?style=for-the-badge&logo=Azuredevops&logoColor=0074CF)
