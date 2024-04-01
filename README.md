@@ -5,10 +5,10 @@
 <br> 👋🏻 Привет! Меня зовут Андрей. Я начинающий тестировщик живущий на крайнем севере.
 <br> 🎉 [Окончил](https://stepik.org/cert/2394432 "Сертификат") курс Артёма Русова "Тестирование ПО с нуля".
 <br> 👨🏻‍🎓 Каждый день совершенствую свои знания.
-<br> ☕ Планирую изучить автоматизацию тестирования на Python.
+<br> ☕ В планах изучить автоматизацию тестирования на Python.
 <br> 🔦 Всегда в поисках интересеных проектов и опыта!
 <br> 📑 Ознакомьтесь с моим [резюме](https://www.cqf.su/img/in-construct.png).
-<br> 💥 Случайные факты: люблю автомобли и не имею вредных привычек.
+<br> 💥 Случайный факт: люблю автомобли и не имею вредных привычек.
 ## 💼 Тестовые артефакты
 📋 [Review of technical documentation](https://github.com/ArliSteel/technical_review)
 ## 🔧 Инструменты  и языки
@@ -27,5 +27,5 @@
 ![TestIT](https://img.shields.io/badge/TestIT-CFBEAB?style=for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-CFBEAB?style=for-the-badge)
 ## 🤝 Социальные сети
-[![Telegram](https://img.shields.io/badge/Telegram-CFBEAB?style=for-the-badge&logo=Telegram&logoColor=№2193CD)](https://t.me/iamsupersex)
+[![Telegram](https://img.shields.io/badge/Telegram-CFBEAB?style=for-the-badge&logo=Telegram&logoColor=№2193CD)](https://t.me/arlisteel)
 [![VKontakte](https://img.shields.io/badge/VKontakte-CFBEAB?style=for-the-badge&logo=VK&logoColor=0078FF)](https://vk.com/iamsupersex)
