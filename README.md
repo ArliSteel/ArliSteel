@@ -12,6 +12,8 @@ https://stepik.org/cert/2416172 "Сертификат") по тестирова�
 <br> 💥 Случайный факт: люблю автомобли и не имею вредных привычек.
 ## 💼 Тестовые артефакты
 📋 [Documentation](https://github.com/ArliSteel/technical_review)
+<br>⚙️ [API](https://github.com/ArliSteel/API)
+<br>📱 [Mobile](https://github.com/ArliSteel/Mobile)
 ## 🔧 Инструменты  и языки
 ![Jira](https://img.shields.io/badge/Jira-CFBEAB?style=for-the-badge&logo=Jira&logoColor=1D7AFC)
 ![Azuredevops](https://img.shields.io/badge/Azuredevops-CFBEAB?style=for-the-badge&logo=Azuredevops&logoColor=0074CF)
